@@ -18,6 +18,16 @@ const projects = [
         technologies: ["HTML", "CSS", "JavaScript"],
         image: "img/images.png",
         link: "https://hussainazzam100-ctrl.github.io/VCSA/"
+    },
+    {
+        title: "Quack.Ai chatbot",
+        year: "2026",
+        category: "Chatbot Development",
+        description:
+            "A prototype student platform for the Villa College Student Association, designed to bring announcements, events and student resources together in one place.",
+        technologies: ["HTML", "CSS", "JavaScript", "JSON"],
+        image: "img/Duck.jpg",
+        link: "https://hussainazzam100-ctrl.github.io/chatbot/"
     }
 ];
 
