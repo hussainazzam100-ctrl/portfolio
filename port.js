@@ -20,14 +20,24 @@ const projects = [
         link: "https://hussainazzam100-ctrl.github.io/VCSA/"
     },
     {
-        title: "Quack.Ai chatbot",
+        title: "Quack.AI Chatbot",
         year: "2026",
         category: "Chatbot Development",
         description:
-            "A prototype student platform for the Villa College Student Association, designed to bring announcements, events and student resources together in one place.",
-        technologies: ["HTML", "CSS", "JavaScript", "JSON"],
+            "A duck-focused chatbot prototype that provides information about ducks, their characteristics, habitats and behaviour.",
+        technologies: ["HTML", "CSS", "JavaScript", "JSON", "FastAPI", "Python"],
         image: "img/Duck.jpg",
         link: "https://hussainazzam100-ctrl.github.io/chatbot/"
+    },
+    {
+        title: "Undead Resonance",
+        year: "2026",
+        category: "Full-Stack Development",
+        description:
+            "A browser-based survival horror game featuring interactive gameplay, player state management and a Python FastAPI backend.",
+        technologies: ["HTML", "CSS", "JavaScript", "Python", "FastAPI", "REST API"],
+        image: "img/reson.png",
+        link: "https://hussainazzam100-ctrl.github.io/undead_resonance/"
     }
 ];
 
